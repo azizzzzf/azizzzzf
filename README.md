@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzQ3YmxkYWxzam4ydXo1ZHdkNHh3Z2N6YXJ1cXlod2o5ZWxsMmNnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fZBf0LhyHNZz2Dx75/giphy.gif" alt="Waving hand hi" width="240" />
+</p>
+
 # Hello, I'm Aziz 👋
 
 At the intersection of **technology**, **mathematics**, and **philosophy**, I work to design systems that are not only functional but meaningful. My background in software engineering gives me the tools to build, math sharpens the reason to structure solutions, and philosophy helps me see through different lenses—to think about technology not just as tools, but as something that shapes society, values, and even human identity.
