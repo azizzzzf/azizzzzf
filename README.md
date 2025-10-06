@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzQ3YmxkYWxzam4ydXo1ZHdkNHh3Z2N6YXJ1cXlod2o5ZWxsMmNnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fZBf0LhyHNZz2Dx75/giphy.gif" alt="Waving hand hi" width="240" />
-</p>
 
 # Hello, I'm Aziz 👋
 
